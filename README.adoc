@@ -1,0 +1,19 @@
+# SCS
+Meta repository for article/demo: _Crash Course: How to Leverage Spring Cloud Services on PAS_
+
+## Component repos
+
+* https://github.com/mkheck/SCSconfig[Config properties repo used in examples]
+* https://github.com/mkheck/SCScoffee-service[Domain backing microservice]
+* https://github.com/mkheck/SCSedge-service[Domain edge microservice]
+
+## Notes
+
+* This repo will be updated with a link to the article published at https://pivotal.io once it goes live. Please star/watch the repository or https://www.twitter.com/mkheck[follow me on Twitter] for updates.
+
+## Contact information
+
+* Mark Heckler
+* @MkHeck
+* mark.heckler@gmail.com
+* mheckler@pivotal.io
