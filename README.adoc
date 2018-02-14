@@ -14,6 +14,6 @@ Meta repository for article/demo: _Crash Course: How to Leverage Spring Cloud Se
 ## Contact information
 
 * Mark Heckler
-* @MkHeck
+* https://www.twitter.com/mkheck[@MkHeck]
 * mark.heckler@gmail.com
 * mheckler@pivotal.io
