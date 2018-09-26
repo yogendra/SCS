@@ -1,0 +1,9 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/yogendra/SCScoffee-service.git
+[submodule "edge-service"]
+	path = edge-service
+	url = https://github.com/yogendra/SCSedge-service.git
+[submodule "coffee-service"]
+	path = coffee-service
+	url = https://github.com/yogendra/SCScoffee-service.git

@@ -1,11 +1,23 @@
 # SCS
 Meta repository for article/demo: _Crash Course: How to Leverage Spring Cloud Services on PAS_
 
+## Get started
+
+Clone this repo and initialize submodules
+
+```
+git clone https://github.com/yogendra/SCS.git 
+cd SCS
+git submodule init
+
+```
+
+
 ## Component repos
 
-* https://github.com/mkheck/SCSconfig[Config properties repo used in examples]
-* https://github.com/mkheck/SCScoffee-service[Domain backing microservice]
-* https://github.com/mkheck/SCSedge-service[Domain edge microservice]
+* https://github.com/yogendra/SCSconfig[Config properties repo used in examples]
+* https://github.com/yogendra/SCScoffee-service[Domain backing microservice]
+* https://github.com/yogendra/SCSedge-service[Domain edge microservice]
 
 ## Notes
 
